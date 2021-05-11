@@ -140,9 +140,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		01308D8D13491C3500453707 /* iCarouselExample */ = {
+		01308D8D13491C3500453707 /* iCarouselAdvIOSExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 01308DAF13491C3500453707 /* Build configuration list for PBXNativeTarget "iCarouselExample" */;
+			buildConfigurationList = 01308DAF13491C3500453707 /* Build configuration list for PBXNativeTarget "iCarouselAdvIOSExample" */;
 			buildPhases = (
 				01308D8A13491C3500453707 /* Sources */,
 				01308D8B13491C3500453707 /* Frameworks */,
@@ -152,7 +152,7 @@
 			);
 			dependencies = (
 			);
-			name = iCarouselExample;
+			name = iCarouselAdvIOSExample;
 			productName = iCarouselExample;
 			productReference = 018BBCB413A375AF005CA505 /* iCarouselExample.app */;
 			productType = "com.apple.product-type.application";
@@ -170,6 +170,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 01308D8313491C3500453707;
@@ -177,7 +178,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				01308D8D13491C3500453707 /* iCarouselExample */,
+				01308D8D13491C3500453707 /* iCarouselAdvIOSExample */,
 			);
 		};
 /* End PBXProject section */
@@ -409,7 +410,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		01308DAF13491C3500453707 /* Build configuration list for PBXNativeTarget "iCarouselExample" */ = {
+		01308DAF13491C3500453707 /* Build configuration list for PBXNativeTarget "iCarouselAdvIOSExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01308DB013491C3500453707 /* Debug */,
