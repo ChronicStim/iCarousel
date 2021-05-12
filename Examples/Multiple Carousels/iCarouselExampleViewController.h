@@ -14,5 +14,6 @@
 
 @property (nonatomic, strong) IBOutlet iCarousel *carousel1;
 @property (nonatomic, strong) IBOutlet iCarousel *carousel2;
+@property (nonatomic, strong) IBOutlet iCarousel *carousel3;
 
 @end

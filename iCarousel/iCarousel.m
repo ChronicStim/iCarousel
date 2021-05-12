@@ -107,7 +107,7 @@
 @property (nonatomic, strong) NSMutableSet *itemViewPool;
 @property (nonatomic, strong) NSMutableSet *placeholderViewPool;
 @property (nonatomic, assign) CGFloat previousScrollOffset;
-@property (nonatomic, assign) NSInteger previousItemIndex;
+@property (nonatomic, assign, readwrite) NSInteger previousItemIndex;
 @property (nonatomic, assign) NSInteger numberOfPlaceholdersToShow;
 @property (nonatomic, assign) NSInteger numberOfVisibleItems;
 @property (nonatomic, assign) CGFloat itemWidth;
